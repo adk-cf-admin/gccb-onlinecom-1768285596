@@ -1,0 +1,19 @@
+{
+  "name": "Casino de Lloret de Mar",
+  "short_name": "Casino de Lloret de Mar",
+  "theme_color": "",
+  "background_color": "#191919",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768283993-cropped-favicon-192x192.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
